@@ -7,7 +7,7 @@ CFLAGS = -g -Wall -I$(IDIR)
 DEPS = main.h
 _DEPS = $(patsubst %,$(IDIR)/%,$(DEPS))
 
-SRCS = Q0.c Q1.c Q2.c Q3.c Q4.c Q5.c
+SRCS = main.c Q0.c Q1.c Q2.c Q3.c Q4.c Q5.c
 
 OBJS = $(SRCS:.c=.o)
 _OBJS = $(patsubst %,$(ODIR)/%,$(OBJS))
