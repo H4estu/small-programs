@@ -10,9 +10,11 @@ struct student {
 	int id;
 	int score;
 };
-void generate(struct student *students);
 struct student *allocate();
-
+void generate(struct student *students);
+void output(struct student *students);
+void summary(struct student *students);
+void deallocate(struct student *students);
 
 /* "main" functions for each of the switch cases */
 void Q0();
