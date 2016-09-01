@@ -1,3 +1,5 @@
+# produced with command: cat results.txt > sortedProducts.txt | sort -g
+
 Max Product  40824
 0
 0
