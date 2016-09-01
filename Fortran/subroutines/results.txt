@@ -1,0 +1,4008 @@
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+ ************** SUBROUTINE MEANVAR **************
+ Mean:    17.93750    
+ Variance:    255.6093    
+ ****************** END MEANVAR *****************
+Executing array.f90...
+ **************************************** 
+Running 1000 loops...
+start clock: 0.032228
+end clock 0.825277
+ **************************************** 
+Success!
+Wall clock time:  0.793049
