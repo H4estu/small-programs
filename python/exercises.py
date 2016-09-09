@@ -6,6 +6,7 @@
 
 def digitProd():
     '''Find greates product of five consecutive digits in the 1000-digit number
+       Bonus points to do it in 2 lines or less.
     '''
     
     bigNum = '731671765313306249192251196744265747423553491949349698352031277450\
@@ -22,18 +23,36 @@ def digitProd():
 544436298123098787992724428490918884580156166097919133875499200524063689912\
 560717606058861164671094050775410022569831552000559357297257163626956188267\
 0428252483600823257530420752963450'
-    
-    maxProd = 0
-    for i in range(len(bigNum)-4):
-        prod = int(bigNum[i])\
-             * int(bigNum[i+1])\
-             * int(bigNum[i+2])\
-             * int(bigNum[i+3])\
+
+    ## Old way ##
+    # maxProd = 0
+    # for i in range(len(bigNum)-4):
+    #     prod = int(bigNum[i])\
+    #          * int(bigNum[i+1])\
+    #          * int(bigNum[i+2])\
+    #          * int(bigNum[i+3])\
+    #          * int(bigNum[i+4])
+    #     print prod
+    #     if prod > maxProd:
+    #         maxProd = prod
+
+    maxProd = max([int(bigNum[i]) 
+             * int(bigNum[i+1])
+             * int(bigNum[i+2])
+             * int(bigNum[i+3])
              * int(bigNum[i+4])
-        print prod
-        if prod > maxProd:
-            maxProd = prod
-            
+             for i in range(len(bigNum)-4)
+             if int(bigNum[i]) 
+             * int(bigNum[i+1])
+             * int(bigNum[i+2])
+             * int(bigNum[i+3])
+             * int(bigNum[i+4]) >
+             int(bigNum[i-1]) 
+           * int(bigNum[i])
+           * int(bigNum[i+1])
+           * int(bigNum[i+2])
+           * int(bigNum[i+3])])
+    
     print 'Max Product ', maxProd
 
 def main():
