@@ -50,9 +50,19 @@ int main(int argc, char* argv[])
     const int ARR_SIZE = 26;   // number of letters to track
     
     int* n = new int[ARR_SIZE];
+    
+    // ensure proper number of files 
+    if (argc < 2) {
+	std::cerr << 'Too few arguments, try again' << std::endl;
+	exit(-1);
+    }
+    if (argc > 2) {
+	std::cerr << 'Too many arguments, try again' << std::endl;
+	exit(-1);
+    }    
+    
+    // open text file and check validity
     std::ifstream ifs(argv[1]);
-
-    // check if file can be opened
     if (!ifs.is_open()) {
 	std::cerr << "Error opening file." << std::endl;
 	exit(-1);
@@ -63,8 +73,14 @@ int main(int argc, char* argv[])
 	n[i] = 0;
     }
 
+    // count frequency of occurrence of letters in text file
     count_letters(ifs, n);
-    ifs.close();   // Close after 
+    ifs.close();   
+
+    // open output file 
+    std::ofstream ofs(argv[2])
+    // write frequencies to tsv file
+    write_counts(ofs, n);
     
     delete [] n;   // deallocate n
     n = 0;         // reset to null pointer
