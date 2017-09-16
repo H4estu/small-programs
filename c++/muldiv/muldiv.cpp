@@ -68,7 +68,10 @@ void print_tables(struct muldiv_entry** tables, int n)
 	}
 	std::cout << "" << std::endl;
     }
+ 
     std::cout << "------------------------------------" << std::endl;
+
+    return;
 }
 
 
@@ -83,7 +86,9 @@ void free_tables(struct muldiv_entry** tables, int n)
 	delete[] tables[i];
 	std::cout << "deleted pointer: " << i << std::endl;
     }
-    
+  
     delete[] tables;
     std::cout << "deleted table " << std::endl;
+
+    return;
 }
