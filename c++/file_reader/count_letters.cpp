@@ -16,7 +16,7 @@
 void count_letters(std::ifstream& ifs, int* n) 
 {
     char letter;
-    char alphabet[26] = {'a','b','c','d','e','f','g','h','i','j', 'k','l','m',
+    char alphabet[26] = {'a','b','c','d','e','f','g','h','i','j','k','l','m',
 			 'n','o','p','q','r','s','t','u','v','w','x','y','z'};
 
     while(ifs.get(letter)) {       // loop through file
@@ -39,9 +39,15 @@ void count_letters(std::ifstream& ifs, int* n)
 }
 
 
-void write_counts(std::ofstream& ifs, int* n) 
-{
+void write_counts(std::ofstream& ofs, int* n) 
+{   
+    char alphabet[26] = {'a','b','c','d','e','f','g','h','i','j','k','l','m',
+			 'n','o','p','q','r','s','t','u','v','w','x','y','z'};
     
+    for (int i = 0; i < sizeof(alphabet); i++)
+	ofs << alphabet[i] << "\t" << n[i] << std::endl;
+
+    return;
 } 
 
 
@@ -52,12 +58,12 @@ int main(int argc, char* argv[])
     int* n = new int[ARR_SIZE];
     
     // ensure proper number of files 
-    if (argc < 2) {
-	std::cerr << 'Too few arguments, try again' << std::endl;
+    if (argc < 3) {
+	std::cerr << "Too few arguments, try again" << std::endl;
 	exit(-1);
     }
-    if (argc > 2) {
-	std::cerr << 'Too many arguments, try again' << std::endl;
+    if (argc > 3) {
+	std::cerr << "Too many arguments, try again" << std::endl;
 	exit(-1);
     }    
     
@@ -78,10 +84,11 @@ int main(int argc, char* argv[])
     ifs.close();   
 
     // open output file 
-    std::ofstream ofs(argv[2])
+    std::ofstream ofs(argv[2]);
     // write frequencies to tsv file
     write_counts(ofs, n);
-    
+    ofs.close();
+
     delete [] n;   // deallocate n
     n = 0;         // reset to null pointer
 }
