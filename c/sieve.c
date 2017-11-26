@@ -7,7 +7,7 @@
  *   between 1 and n.
  *
  * Author: Z. Wallace
- * Last edit: 17 Sept. 2017
+ * Last edit: 25 Nov. 2017
  */
 
 
@@ -21,7 +21,7 @@ void sieve(int n) {
     int i, idx, j,  k, m, total;
     int *primes;
     
-    // allocate memory for prime and composite number arrays
+    /* allocate memory for prime and composite number arrays */
     primes = (int *) malloc(n * sizeof(int));
     
     for (i = 0; i < n; i++) {
@@ -42,10 +42,10 @@ void sieve(int n) {
 	}
     }
 	    
-    // output
-    total = 0;
+    /*  output */
+    total = 0;   // prime counter
     printf("The primes less than %d are:\n", n);
-    for (idx = 1; idx < n; idx++) {
+    for (idx = 2; idx < n; idx++) {   // 0 and 1 marked as special
 	if (primes[idx] == 1) {
 	    printf("%d\n", idx);
 	    total += 1;
@@ -53,7 +53,7 @@ void sieve(int n) {
     }
     printf("Total: %d\n", total);
 
-    // free memory allocated to prime and composite arrays
+    /* free memory allocated to prime array */
     free(primes);
     primes = NULL;
 
@@ -65,13 +65,22 @@ int main(int argc, char* argv[])
 {
     int num = 0; 
     
-    // ensure 1 command line argument only
+    /* ensure correct program invocation */
     if (argc != 2) {
-	printf("Wrong number of command line arguments.  Try again.\n");
+	printf("Wrong number of command line arguments.\n");
+	printf("Usage is: sieve <n>.  Try again.\n");
 	exit(-1);
     }
 
     num = atoi(argv[1]);
+
+    /* Ensure floating point exceptions avoided.  Currently, array 
+       indexing goes out of bounds for n < 3.  */
+    if (num <= 2) {
+	printf("Try a number greater than 2.\n");
+	exit(-1);
+    }
+
     printf("-----------------------\n");
     printf("Find primes less than %d\n", num);
     printf("-----------------------\n");
