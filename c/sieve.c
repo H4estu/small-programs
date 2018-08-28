@@ -8,6 +8,9 @@
  *
  * Author: Z. Wallace
  * Last edit: 25 Nov. 2017
+ *            28 Aug. 2018 --> Removed printed statements of "first 
+ *                             prime greater than <#>".
+ *                         --> Removed unused variable j.
  */
 
 
@@ -18,7 +21,7 @@
 
 
 void sieve(int n) {
-    int i, idx, j,  k, m, total;
+    int i, idx, j, m, total;
     int *primes;
     
     /* allocate memory for prime and composite number arrays */
@@ -28,14 +31,13 @@ void sieve(int n) {
 	primes[i] = 1;    // initialize list as entirely  prime
     }
 
-    for (k=1; k <= sqrt(n); k = m) {
-        for (i = k+1; i < n; i++) {   // find 1st prime greater than k
+    for (j=1; j <= sqrt(n); j = m) {
+        for (i = j+1; i < n; i++) {   // find 1st prime greater than k
 	    if (primes[i] == 1) {
 		m = i;
 		break;
 	    }
 	}
-	printf("First prime larger than %d: %d\n",k, m);
 
         for (i = 2; i <= n/m; i++) {  // mark all multiples of m as composite
 	    primes[i*m] = 0;
