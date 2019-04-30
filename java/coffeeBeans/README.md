@@ -1,0 +1,1 @@
+- coffeeBeans: Determine amount of water to use in Chemex pour overs based on weight of beans (in grams).  Ratios are based off the 42:700 beans to water ratio (in grams).
